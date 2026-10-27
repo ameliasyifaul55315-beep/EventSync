@@ -1,0 +1,8 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+# secrets (tidak dipakai di frontend, tetapi jangan pernah di-commit)
+.env
+.env.*

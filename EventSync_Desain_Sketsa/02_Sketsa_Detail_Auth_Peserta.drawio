@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" modified="2026-10-25T03:00:00.000Z" agent="OpenAI" version="24.7.17" type="device">
+  <diagram id="page0" name="Detail dan Peserta">
+    <mxGraphModel dx="1800" dy="1480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1480" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="EVENTSYNC — DETAIL EVENT &amp; PESERTA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#681F2D;strokeColor=#681F2D;fontColor=#FFFFFF;fontSize=27;fontFamily=Arial;align=center;verticalAlign=middle;spacing=7;arcSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="20" width="1750" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Sketsa detail event, autentikasi, dashboard peserta, dan My Events sesuai halaman public yang tersedia." style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=14;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="38" y="95" width="1724" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#33282A;fontSize=13;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="820" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="01 • EVENT DETAIL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1DFDA;strokeColor=#F1DFDA;fontColor=#681F2D;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="52" y="172" width="796" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="public/pages/event-detail.html?id=event-slug" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=10;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="58" y="207" width="784" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="EventSync   ◉" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFCF8;strokeColor=#D9C1B5;fontColor=#681F2D;fontSize=13;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="58" y="238" width="784" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Home" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=10;fontFamily=Arial;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="228" y="242" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Events" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#681F2D;fontSize=10;fontFamily=Arial;align=center;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="242" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Schedule" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=10;fontFamily=Arial;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="408" y="242" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Speakers" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=10;fontFamily=Arial;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="498" y="242" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Login" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=10;fontFamily=Arial;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="588" y="242" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Poster / Cover Event" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1DFDA;strokeColor=#D9C1B5;fontColor=#681F2D;fontSize=16;fontFamily=Arial;align=center;verticalAlign=middle;spacing=7;arcSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="58" y="285" width="480" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Nama Event" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#681F2D;fontSize=21;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="287" width="270" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Kategori • Status event" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="560" y="335" width="270" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Tanggal • Waktu&#10;Lokasi • Kapasitas" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#33282A;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="560" y="375" width="270" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Register Now / Registered" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#681F2D;strokeColor=#681F2D;fontColor=#FFFFFF;fontSize=12;fontFamily=Arial;align=center;verticalAlign=middle;spacing=7;arcSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="442" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="About this event" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#681F2D;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="482" width="400" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="Deskripsi event dan informasi penting" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F0E9;strokeColor=#D9C1B5;fontColor=#786B69;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="62" y="510" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="Schedule &amp; Speakers" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#681F2D;fontSize=14;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="579" width="400" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="Daftar sesi / timeline" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#786B69;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="62" y="608" width="360" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="Info speaker / panitia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#786B69;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="438" y="608" width="384" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#33282A;fontSize=13;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="940" y="160" width="820" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="02 • LOGIN / REGISTER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1DFDA;strokeColor=#F1DFDA;fontColor=#681F2D;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="952" y="172" width="796" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="public/pages/login.html • public/pages/register.html" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=10;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="958" y="207" width="784" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="EventSync&#10;Plan, schedule and join events in one place." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#681F2D;strokeColor=#681F2D;fontColor=#FFFFFF;fontSize=21;fontFamily=Arial;align=center;verticalAlign=middle;spacing=7;arcSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="958" y="238" width="350" height="448" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="Welcome back" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#681F2D;fontSize=24;fontFamily=Arial;align=center;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="256" width="360" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="Sign in to EventSync" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=11;fontFamily=Arial;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="300" width="320" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="Email" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#33282A;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="350" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="nama@email.com" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#786B69;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="374" width="330" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="Password" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#33282A;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="426" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="••••••••" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#786B69;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="450" width="330" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="Login" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#681F2D;strokeColor=#681F2D;fontColor=#FFFFFF;fontSize=13;fontFamily=Arial;align=center;verticalAlign=middle;spacing=7;arcSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="518" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="Belum punya akun? Register" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#681F2D;fontSize=11;fontFamily=Arial;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="570" width="330" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#33282A;fontSize=13;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="780" width="820" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="36" value="03 • USER DASHBOARD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1DFDA;strokeColor=#F1DFDA;fontColor=#681F2D;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="52" y="792" width="796" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="37" value="public/pages/dashboard.html" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=10;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="58" y="827" width="784" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F0E9;strokeColor=#D9C1B5;fontColor=#33282A;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="58" y="858" width="170" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="39" value="EventSync" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#681F2D;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="870" width="140" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1DFDA;strokeColor=#D9C1B5;fontColor=#681F2D;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="918" width="150" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="My Events" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#786B69;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="68" y="960" width="150" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="42" value="Profile" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#786B69;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="68" y="1002" width="150" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="Logout" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#786B69;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="68" y="1044" width="150" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="44" value="Welcome back, User!" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#681F2D;fontSize=21;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="872" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="Here is what is coming up for you." style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="250" y="910" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#33282A;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="250" y="952" width="165" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="47" value="—" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#681F2D;fontSize=21;fontFamily=Arial;align=center;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="258" y="960" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="48" value="Upcoming" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=10;fontFamily=Arial;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="258" y="991" width="150" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#33282A;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="435" y="952" width="165" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="50" value="—" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#681F2D;fontSize=21;fontFamily=Arial;align=center;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="960" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51" value="Registered" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=10;fontFamily=Arial;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="443" y="991" width="150" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="52" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#33282A;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="620" y="952" width="165" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="53" value="—" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#681F2D;fontSize=21;fontFamily=Arial;align=center;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="628" y="960" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="54" value="Attended" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=10;fontFamily=Arial;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="628" y="991" width="150" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="55" value="Upcoming events" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#681F2D;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1040" width="500" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="56" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#33282A;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1074" width="570" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="57" value="Poster" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1DFDA;strokeColor=#D9C1B5;fontColor=#786B69;fontSize=9;fontFamily=Arial;align=center;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1081" width="60" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="58" value="Campus Creative Festival" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#33282A;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="1081" width="310" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="59" value="Tanggal • Status pendaftaran" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=9;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="332" y="1104" width="300" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="60" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#33282A;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1139" width="570" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="61" value="Poster" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1DFDA;strokeColor=#D9C1B5;fontColor=#786B69;fontSize=9;fontFamily=Arial;align=center;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1146" width="60" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="62" value="UMKM Digital Marketing" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#33282A;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="1146" width="310" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="63" value="Tanggal • Status pendaftaran" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=9;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="332" y="1169" width="300" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="64" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#33282A;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1204" width="570" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="65" value="Poster" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1DFDA;strokeColor=#D9C1B5;fontColor=#786B69;fontSize=9;fontFamily=Arial;align=center;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1211" width="60" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="66" value="Charity &amp; Community Day" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#33282A;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="1211" width="310" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="67" value="Tanggal • Status pendaftaran" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=9;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="332" y="1234" width="300" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="68" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#33282A;fontSize=13;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="940" y="780" width="820" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="69" value="04 • MY EVENTS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1DFDA;strokeColor=#F1DFDA;fontColor=#681F2D;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="952" y="792" width="796" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="70" value="public/pages/my-events.html" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=10;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="958" y="827" width="784" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="71" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F0E9;strokeColor=#D9C1B5;fontColor=#33282A;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="958" y="858" width="170" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="72" value="EventSync" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#681F2D;fontSize=16;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="972" y="870" width="140" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="73" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#786B69;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="968" y="918" width="150" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="74" value="My Events" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1DFDA;strokeColor=#D9C1B5;fontColor=#681F2D;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="968" y="960" width="150" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="75" value="Profile" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#786B69;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="968" y="1002" width="150" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="76" value="Logout" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#786B69;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="968" y="1044" width="150" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="77" value="My Events" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#681F2D;fontSize=22;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="872" width="550" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="78" value="Events you registered for and your event history." style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="910" width="550" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="79" value="Upcoming" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1DFDA;strokeColor=#D9C1B5;fontColor=#681F2D;fontSize=10;fontFamily=Arial;align=center;verticalAlign=middle;spacing=7;arcSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="945" width="165" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="80" value="Completed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9F2;strokeColor=#D9C1B5;fontColor=#681F2D;fontSize=10;fontFamily=Arial;align=center;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="945" width="165" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="81" value="Cancelled" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9F2;strokeColor=#D9C1B5;fontColor=#681F2D;fontSize=10;fontFamily=Arial;align=center;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="945" width="165" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="82" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#33282A;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="995" width="570" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="83" value="Poster" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1DFDA;strokeColor=#D9C1B5;fontColor=#786B69;fontSize=9;fontFamily=Arial;align=center;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1004" width="72" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="84" value="UMKM Digital Marketing Workshop" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#33282A;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1244" y="1004" width="350" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="85" value="Tanggal • Lokasi" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=9;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="1244" y="1031" width="350" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="86" value="registered" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDE8DC;strokeColor=#A4B89F;fontColor=#33282A;fontSize=9;fontFamily=Arial;align=center;verticalAlign=middle;spacing=7;arcSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="1016" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="87" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#33282A;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1085" width="570" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="88" value="Poster" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1DFDA;strokeColor=#D9C1B5;fontColor=#786B69;fontSize=9;fontFamily=Arial;align=center;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1094" width="72" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="89" value="Charity &amp; Community Day" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#33282A;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1244" y="1094" width="350" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="90" value="Tanggal • Lokasi" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=9;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="1244" y="1121" width="350" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="91" value="registered" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDE8DC;strokeColor=#A4B89F;fontColor=#33282A;fontSize=9;fontFamily=Arial;align=center;verticalAlign=middle;spacing=7;arcSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="1106" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="92" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D9C1B5;fontColor=#33282A;fontSize=15;fontFamily=Arial;align=left;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1175" width="570" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="93" value="Poster" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1DFDA;strokeColor=#D9C1B5;fontColor=#786B69;fontSize=9;fontFamily=Arial;align=center;verticalAlign=middle;spacing=7;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1184" width="72" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94" value="Campus Creative Festival" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#33282A;fontSize=11;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1244" y="1184" width="350" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="95" value="Tanggal • Lokasi" style="text;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#786B69;fontSize=9;fontFamily=Arial;align=left;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="1244" y="1211" width="350" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="96" value="registered" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDE8DC;strokeColor=#A4B89F;fontColor=#33282A;fontSize=9;fontFamily=Arial;align=center;verticalAlign=middle;spacing=7;arcSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="1196" width="115" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

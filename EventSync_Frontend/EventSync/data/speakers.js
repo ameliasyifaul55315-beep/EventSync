@@ -1,0 +1,18 @@
+/* data/speakers.js — tabel `speakers` (+ kolom `topic` sesuai kebutuhan frontend; lihat CHANGELOG). Nama fiktif. */
+ES_SEED.speakers = [
+  { id: 1,  event_id: 1,  name: "Dr. Rina Kusuma",    title: "AI Researcher",              role: "Speaker",     topic: "Applied AI for Everyday Products",      bio: "Researcher working on practical machine learning for consumer products.", photo: "" },
+  { id: 2,  event_id: 1,  name: "Dimas Pratama",      title: "Backend Engineer",           role: "Speaker",     topic: "Building a REST API with Laravel",      bio: "Backend engineer who teaches web development to student communities.", photo: "" },
+  { id: 3,  event_id: 2,  name: "Sinta Maharani",     title: "Digital Marketing Consultant", role: "Speaker",   topic: "Digital Marketing Basics for Small Business", bio: "Helps small businesses grow with simple, low-budget online marketing.", photo: "" },
+  { id: 4,  event_id: 2,  name: "Fajar Ramadhan",     title: "Content Creator",            role: "Mentor",      topic: "Product Photography with a Smartphone", bio: "Content creator focusing on product and food photography.", photo: "" },
+  { id: 5,  event_id: 3,  name: "Arif Hidayat",       title: "Cloud Engineer",             role: "Mentor",      topic: "Shipping a Prototype in 24 Hours",      bio: "Cloud engineer and long-time hackathon mentor.", photo: "" },
+  { id: 6,  event_id: 3,  name: "Prof. Ahmad Fauzi",  title: "Lecturer",                   role: "Judge",       topic: "Evaluating Technical Projects",         bio: "Lecturer in software engineering.", photo: "" },
+  { id: 7,  event_id: 3,  name: "Laila Nurhayati",    title: "Product Manager",            role: "Judge",       topic: "What Makes a Product Stand Out",        bio: "Product manager at a technology startup.", photo: "" },
+  { id: 8,  event_id: 4,  name: "Dr. Nadia Rahman",   title: "Keynote Speaker",            role: "Speaker",     topic: "Technology for Campuses",               bio: "Academic and speaker on digital transformation in education.", photo: "" },
+  { id: 9,  event_id: 4,  name: "Raka Pratama",       title: "Workshop Mentor",            role: "Mentor",      topic: "Web Basics",                            bio: "Front-end developer and workshop mentor.", photo: "" },
+  { id: 10, event_id: 5,  name: "Maya Anggraini",     title: "Exhibition Curator",         role: "Curator",     topic: "Curating Student Art",                  bio: "Independent curator working with student art collectives.", photo: "" },
+  { id: 11, event_id: 6,  name: "Hendra Saputra",     title: "Digital Literacy Speaker",   role: "Speaker",     topic: "Digital Literacy for Young People",     bio: "Trainer in digital literacy programs for schools.", photo: "" },
+  { id: 12, event_id: 7,  name: "Rizki Maulana",      title: "Volunteer Coordinator",      role: "Coordinator", topic: "Organising Community Service",          bio: "Coordinates volunteer programs for local communities.", photo: "" },
+  { id: 13, event_id: 8,  name: "Vina Oktaviani",     title: "Angel Investor",             role: "Panelist",    topic: "What Investors Look For",               bio: "Early-stage investor and startup advisor.", photo: "" },
+  { id: 14, event_id: 9,  name: "Kevin Halim",        title: "Senior UI/UX Designer",      role: "Speaker",     topic: "From Wireframe to Prototype",           bio: "Product designer with a focus on mobile apps.", photo: "" },
+  { id: 15, event_id: 10, name: "Melati Sari",        title: "Startup Mentor",             role: "Panelist",    topic: "Turning Research into Products",        bio: "Mentor for student startups and innovation programs.", photo: "" }
+];
